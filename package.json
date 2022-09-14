@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index"
+    "start": "npx nodemon src/index"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Subhamsidharth/Course_Management_System.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Subham Sidhartha Mahapatra",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Subhamsidharth/Course_Management_System/issues"
